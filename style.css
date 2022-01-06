@@ -11,12 +11,11 @@
 .wid{
     width:50%;
 }
-section{
+.sectn-cls{
     margin-top: 40px;
     margin-left: 60px;
- 
-    margin-bottom: 30px;
-
+    margin-right: 10px;  
+    margin-bottom: 50px;
     Display:flex;
 }
 button{
@@ -33,8 +32,40 @@ button{
 }
 .alignment{
     text-align: center;
-    font-size: 30px;
-    font-weight: 100px;
+    font-size: 40px;
+    font-weight: 180px;
+    font-family: 'Oswald', sans-serif;
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
+}
+.font{
+    font-weight: 100px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.div1{
+    
+    border-radius:33px;
+    width: 23%;
+    border: 3px 2px 2px 2px solid green;
+    border-color: none;
+    padding: 30px 20px;
+    margin: 10px;
+}
+
+.d1{
+    background-color: rgb(220, 242, 245);
+}
+.d2{
+    background-color: rgb(241, 220, 220);
+}
+.d3{
+    background-color: rgb(248, 236, 207);
+}
+.f1{
+    margin-left: 22px ;
+    margin-right: 40px;
+    padding-left: 15px;
 }
