@@ -1,0 +1,40 @@
+.fnt{
+   
+    font-size: 50px;
+}
+.yellow{
+    color:rgb(243, 161, 9);
+}
+.blu{
+   color:rgb(10, 24, 68);
+}
+.wid{
+    width:50%;
+}
+section{
+    margin-top: 40px;
+    margin-left: 60px;
+ 
+    margin-bottom: 30px;
+
+    Display:flex;
+}
+button{
+ text-decoration-color: rgb(192, 20, 20);
+ background-color:tomato;
+ border-radius: 5px;
+ padding: 10px 30px ;
+ color:white;
+ border:none;
+}
+.fi{
+    border-left: 3px  solid red;
+    padding-left: 6px;
+}
+.alignment{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
